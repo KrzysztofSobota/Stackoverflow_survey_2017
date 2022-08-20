@@ -1,0 +1,7 @@
+,algorithm,mean_test_score,total time,performance
+0,SVR_partial,0.5318,409.3,Very good -3.6224609512014
+1,SVR_full,0.5217,1497.5,n/a
+2,Ridge_partial,0.5675,1.742,Very good 2.543470870828492
+3,Ridge_full,0.5854,7.931,n/a
+4,XGBoost_partial,0.5378,303.6,Good 0.8328627893845258
+5,XGBoost_full,0.5525,371.7,n/a
